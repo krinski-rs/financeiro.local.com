@@ -10,6 +10,9 @@
 
 # production
 /build
+.buildpath
+.project
+.settings/
 
 # misc
 .DS_Store
